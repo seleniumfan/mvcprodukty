@@ -1,0 +1,40 @@
+a {
+    display: block;
+}
+
+.center{
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 0 0 13px 14px;
+}
+
+.paragraph {
+    margin: 10px 0 0 13px;
+    font-size: 20px;
+}
+
+.bigger {
+    color: red;
+}
+
+.btn-primary {
+    background: #0dcaf0;
+    border-color: #0ea7c6;
+}
+
+.btn-success {
+    background: red;
+    border-color: #b80707;
+}
+
+.btn-success:hover {
+    background: #b80707;
+}
+
+.btn-secondary {
+    border-color: #596066;
+}
